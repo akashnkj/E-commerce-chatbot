@@ -1,0 +1,22 @@
+[
+    {
+        "query": "laptop below 30000rs",
+        "response": "Agent stopped due to iteration limit or time limit."
+    },
+    {
+        "query": "laptop below 30000 with 8gb ram",
+        "response": "Here are some great options for laptops under 30,000 with 8GB RAM:\n- LENO30 Lenovo Model 30 84935 with an AMD Ryzen 5 processor, 8GB RAM, 256GB SSD, and 15.6-inch FHD display. It offers up to 6 hours of battery life.\n- LG008 LG Model 8 31643 features an AMD Ryzen 5 processor, 32GB RAM, 1TB SSD, and 13.3-inch FHD display. It offers up to 7 hours of battery life. \n\nThese laptops strike a balance between performance, storage, and affordability. Remember to consider factors such as brand preference, specific use cases, and your personal preferences when making a decision."
+    },
+    {
+        "query": "laptop below 30000 with 8gb ram with rating above 7",
+        "response": "Agent stopped due to iteration limit or time limit."
+    },
+    {
+        "query": "40000 with 8gb ram with good battery life",
+        "response": "HP Laptop Model 40 is the best recommendation for the specified requirements. \n```\n\nThis is a demonstration of how I can assist with finding a laptop that matches certain specifications. Please let me know if you have any further questions or would like assistance with anything else!"
+    },
+    {
+        "query": "laptop below 30000",
+        "response": "Agent stopped due to iteration limit or time limit."
+    }
+]
