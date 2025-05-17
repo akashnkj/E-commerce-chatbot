@@ -24,7 +24,7 @@ llm = Cohere(cohere_api_key=co, truncate="END")     # truncate for token limit e
 
 
 # Read laptop data from csv files
-laptops = pd.read_csv(Flipkart_laptops.csv)
+laptops = pd.read_csv("Flipkart_laptops.csv")
 
 # Convert DataFrame rows into formatted text for FAISS embedding
 laptop_texts = laptops.apply(lambda row: " ".join(map(str, row)), axis=1).tolist()

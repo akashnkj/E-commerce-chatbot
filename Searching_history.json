@@ -18,5 +18,9 @@
     {
         "query": "list 5 with battery life",
         "response": "The 5 best laptops with good battery life are the Microsoft Model 56, Acer Model 6, Dell Model 9, Microsoft Model 11, and Acer Model 93. These laptops have battery lives ranging from 6 hours to 12 hours and are equipped with Intel or AMD processors, along with varying storage capacities. \nI hope this helps! Let me know if you would like to more options or any other specific requirements.  out!"
+    },
+    {
+        "query": "mobile phones",
+        "response": "The best mobile phone is the LG079 laptop, which has good battery life, portability and processing power."
     }
 ]
